@@ -71,4 +71,4 @@ Note : the above is a screenshot of my test connection not of the one show in st
 
 ![screen shot 2018-02-09 at 5 35 06 pm](https://user-images.githubusercontent.com/30907520/36055098-a9341f42-0dbf-11e8-8a06-54ef984ed33e.png)
 
-Please write of comment if you have any new issues !! Good Luck !! 
+#### Please write of comment if you have any new issues !! Good Luck !! 
